@@ -1,0 +1,22 @@
+10.1.2.254 apt-local
+10.1.4.254 ipmi-ctrl-01.be-gnt-dc01-01 ipmi-ctrl-01
+10.1.4.253 ipmi-ctrl-02.be-gnt-dc01-01 ipmi-ctrl-02
+10.1.4.252 ipmi-ctrl-03.be-gnt-dc01-01 ipmi-ctrl-03
+10.1.2.11 cpu-01.be-gnt-dc01-01 cpu-01
+10.1.4.11 ipmi-cpu-01.be-gnt-dc01-01 ipmi-cpu-01
+10.1.2.12 cpu-02.be-gnt-dc01-01 cpu-02
+10.1.4.12 ipmi-cpu-02.be-gnt-dc01-01 ipmi-cpu-02
+10.1.2.13 cpu-03.be-gnt-dc01-01 cpu-03
+10.1.4.13 ipmi-cpu-03.be-gnt-dc01-01 ipmi-cpu-03
+10.1.2.14 cpu-04.be-gnt-dc01-01 cpu-04
+10.1.4.14 ipmi-cpu-04.be-gnt-dc01-01 ipmi-cpu-04
+10.1.2.15 cpu-05.be-gnt-dc01-01 cpu-05
+10.1.4.15 ipmi-cpu-05.be-gnt-dc01-01 ipmi-cpu-05
+10.1.2.21 stor-01.be-gnt-dc01-01 stor-01
+10.1.4.21 ipmi-stor-01.be-gnt-dc01-01 ipmi-stor-01
+10.1.2.22 stor-02.be-gnt-dc01-01 stor-02
+10.1.4.22 ipmi-stor-02.be-gnt-dc01-01 ipmi-stor-02
+10.1.2.23 stor-03.be-gnt-dc01-01 stor-03
+10.1.4.23 ipmi-stor-03.be-gnt-dc01-01 ipmi-stor-03
+10.1.2.24 stor-04.be-gnt-dc01-01 stor-04
+10.1.4.24 ipmi-stor-04.be-gnt-dc01-01 ipmi-stor-04
